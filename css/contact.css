@@ -1,0 +1,6 @@
+.bg-f{
+    background: rgba(0, 0, 0, 0.7) url(../img/bgf.jpg);
+    background-size: cover;
+    background-blend-mode: darken;
+
+}

@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    min-height:  calc(100vh - 22vh);
+    
+    
+}
+.group{
+    margin-top: -30px;
+    display: flex;
+    justify-content: flex-end;
+    align-items:center;
+    
+}
+
+.group img{
+    width:100%;
+    width: 50vw;
+    
+    
+}
+.texts{
+    margin:60px;
+   
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 20px;
+    text-align: center;
+    
+    
+
+}
+.t1{
+    font-size: 50px;
+    font-family: 'Ubuntu';
+
+}
+.t2{
+    padding: 10px;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
